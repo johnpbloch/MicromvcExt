@@ -1,6 +1,6 @@
 <?php
 
-namespace Lib;
+namespace MicromvcExt\Lib;
 
 class Validation extends \Core\Validation
 {
