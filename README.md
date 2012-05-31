@@ -30,13 +30,13 @@ your-project-directory
  To use the MicroMVC Ext libraries in your project, use them as follows:
 
  ```
- $validator = new \MicroMVC\Lib\Validation( $data );
+ $validator = new \MicromvcExt\Lib\Validation( $data );
  ```
 
  Use `use` statements to simplify the namespaces:
 
  ```
- use \MicroMVC\Lib as L;
+ use \MicromvcExt\Lib as L;
 
  $validator = new L\Validation( $data );
  ```
